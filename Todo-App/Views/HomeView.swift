@@ -104,7 +104,7 @@ struct ContentView: View {
     }
     
     private func getStatusTitle(for todo: TodoItem) -> (String, Color) {
-        return todo.title.isEmpty ? ("No title", Color(.label)) : (todo.title, Color(.label))
+        return todo.title.isEmpty ? ("No title", Color(.systemGray)) : (todo.title, Color(.label))
     }
     
     private func getStatusDetails(for todo: TodoItem) -> (String, Color) {
