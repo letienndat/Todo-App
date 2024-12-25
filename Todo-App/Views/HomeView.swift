@@ -82,7 +82,10 @@ struct ContentView: View {
                 }
             }
             .accentColor(Color(.label))
-            .searchable(text: $homeViewModel.searchText)
+            .searchable(
+                text: $homeViewModel.searchText,
+                prompt: "Search todo"
+            )
             .toolbar() {
                 ToolbarItem(placement: .navigationBarTrailing) {
                     Button(action: {
