@@ -7,6 +7,24 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4A55236D2D265E6200BEB730 /* image-add-todo-lightmode.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 4A55235C2D265E6200BEB730 /* image-add-todo-lightmode.PNG */; };
+		4A55236E2D265E6200BEB730 /* image-todo-list-have-todo-completed-lightmode.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 4A55236B2D265E6200BEB730 /* image-todo-list-have-todo-completed-lightmode.PNG */; };
+		4A55236F2D265E6200BEB730 /* image-mark-todo-pending-darkmode.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 4A5523612D265E6200BEB730 /* image-mark-todo-pending-darkmode.PNG */; };
+		4A5523702D265E6200BEB730 /* image-mark-todo-pending-lightmode.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 4A5523622D265E6200BEB730 /* image-mark-todo-pending-lightmode.PNG */; };
+		4A5523712D265E6200BEB730 /* image-search-todos-lightmode.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 4A5523682D265E6200BEB730 /* image-search-todos-lightmode.PNG */; };
+		4A5523722D265E6200BEB730 /* image-add-todo-darkmode.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 4A55235B2D265E6200BEB730 /* image-add-todo-darkmode.PNG */; };
+		4A5523732D265E6200BEB730 /* image-todo-list-darkmode.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 4A5523692D265E6200BEB730 /* image-todo-list-darkmode.PNG */; };
+		4A5523742D265E6200BEB730 /* image-options-todo-darkmode.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 4A5523632D265E6200BEB730 /* image-options-todo-darkmode.PNG */; };
+		4A5523752D265E6200BEB730 /* image-detail-todo-darkmode.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 4A55235D2D265E6200BEB730 /* image-detail-todo-darkmode.PNG */; };
+		4A5523762D265E6200BEB730 /* image-todo-list-have-todo-completed-darkmode.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 4A55236A2D265E6200BEB730 /* image-todo-list-have-todo-completed-darkmode.PNG */; };
+		4A5523772D265E6200BEB730 /* image-mark-todo-completed-darkmode.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 4A55235F2D265E6200BEB730 /* image-mark-todo-completed-darkmode.PNG */; };
+		4A5523782D265E6200BEB730 /* image-search-todos-darkmode.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 4A5523672D265E6200BEB730 /* image-search-todos-darkmode.PNG */; };
+		4A5523792D265E6200BEB730 /* image-detail-todo-lightmode.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 4A55235E2D265E6200BEB730 /* image-detail-todo-lightmode.PNG */; };
+		4A55237A2D265E6200BEB730 /* image-options-todo-lightmode.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 4A5523642D265E6200BEB730 /* image-options-todo-lightmode.PNG */; };
+		4A55237B2D265E6200BEB730 /* image-todo-list-lightmode.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 4A55236C2D265E6200BEB730 /* image-todo-list-lightmode.PNG */; };
+		4A55237C2D265E6200BEB730 /* image-remove-todo-lightmode.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 4A5523662D265E6200BEB730 /* image-remove-todo-lightmode.PNG */; };
+		4A55237D2D265E6200BEB730 /* image-mark-todo-completed-lightmode.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 4A5523602D265E6200BEB730 /* image-mark-todo-completed-lightmode.PNG */; };
+		4A55237E2D265E6200BEB730 /* image-remove-todo-darkmode.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 4A5523652D265E6200BEB730 /* image-remove-todo-darkmode.PNG */; };
 		FA49E2FF2D166AD50083F9D7 /* Todo_AppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA49E2FE2D166AD50083F9D7 /* Todo_AppApp.swift */; };
 		FA49E3012D166AD50083F9D7 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA49E3002D166AD50083F9D7 /* HomeView.swift */; };
 		FA49E3032D166AD60083F9D7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FA49E3022D166AD60083F9D7 /* Assets.xcassets */; };
@@ -18,6 +36,25 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4A55235B2D265E6200BEB730 /* image-add-todo-darkmode.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "image-add-todo-darkmode.PNG"; sourceTree = "<group>"; };
+		4A55235C2D265E6200BEB730 /* image-add-todo-lightmode.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "image-add-todo-lightmode.PNG"; sourceTree = "<group>"; };
+		4A55235D2D265E6200BEB730 /* image-detail-todo-darkmode.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "image-detail-todo-darkmode.PNG"; sourceTree = "<group>"; };
+		4A55235E2D265E6200BEB730 /* image-detail-todo-lightmode.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "image-detail-todo-lightmode.PNG"; sourceTree = "<group>"; };
+		4A55235F2D265E6200BEB730 /* image-mark-todo-completed-darkmode.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "image-mark-todo-completed-darkmode.PNG"; sourceTree = "<group>"; };
+		4A5523602D265E6200BEB730 /* image-mark-todo-completed-lightmode.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "image-mark-todo-completed-lightmode.PNG"; sourceTree = "<group>"; };
+		4A5523612D265E6200BEB730 /* image-mark-todo-pending-darkmode.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "image-mark-todo-pending-darkmode.PNG"; sourceTree = "<group>"; };
+		4A5523622D265E6200BEB730 /* image-mark-todo-pending-lightmode.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "image-mark-todo-pending-lightmode.PNG"; sourceTree = "<group>"; };
+		4A5523632D265E6200BEB730 /* image-options-todo-darkmode.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "image-options-todo-darkmode.PNG"; sourceTree = "<group>"; };
+		4A5523642D265E6200BEB730 /* image-options-todo-lightmode.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "image-options-todo-lightmode.PNG"; sourceTree = "<group>"; };
+		4A5523652D265E6200BEB730 /* image-remove-todo-darkmode.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "image-remove-todo-darkmode.PNG"; sourceTree = "<group>"; };
+		4A5523662D265E6200BEB730 /* image-remove-todo-lightmode.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "image-remove-todo-lightmode.PNG"; sourceTree = "<group>"; };
+		4A5523672D265E6200BEB730 /* image-search-todos-darkmode.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "image-search-todos-darkmode.PNG"; sourceTree = "<group>"; };
+		4A5523682D265E6200BEB730 /* image-search-todos-lightmode.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "image-search-todos-lightmode.PNG"; sourceTree = "<group>"; };
+		4A5523692D265E6200BEB730 /* image-todo-list-darkmode.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "image-todo-list-darkmode.PNG"; sourceTree = "<group>"; };
+		4A55236A2D265E6200BEB730 /* image-todo-list-have-todo-completed-darkmode.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "image-todo-list-have-todo-completed-darkmode.PNG"; sourceTree = "<group>"; };
+		4A55236B2D265E6200BEB730 /* image-todo-list-have-todo-completed-lightmode.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "image-todo-list-have-todo-completed-lightmode.PNG"; sourceTree = "<group>"; };
+		4A55236C2D265E6200BEB730 /* image-todo-list-lightmode.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "image-todo-list-lightmode.PNG"; sourceTree = "<group>"; };
+		4ACE00322D265654008E503F /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		FA49E2FB2D166AD50083F9D7 /* Todo-App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Todo-App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FA49E2FE2D166AD50083F9D7 /* Todo_AppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Todo_AppApp.swift; sourceTree = "<group>"; };
 		FA49E3002D166AD50083F9D7 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
@@ -40,10 +77,36 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		4ACE00452D265663008E503F /* Public */ = {
+			isa = PBXGroup;
+			children = (
+				4A55235B2D265E6200BEB730 /* image-add-todo-darkmode.PNG */,
+				4A55235C2D265E6200BEB730 /* image-add-todo-lightmode.PNG */,
+				4A55235D2D265E6200BEB730 /* image-detail-todo-darkmode.PNG */,
+				4A55235E2D265E6200BEB730 /* image-detail-todo-lightmode.PNG */,
+				4A55235F2D265E6200BEB730 /* image-mark-todo-completed-darkmode.PNG */,
+				4A5523602D265E6200BEB730 /* image-mark-todo-completed-lightmode.PNG */,
+				4A5523612D265E6200BEB730 /* image-mark-todo-pending-darkmode.PNG */,
+				4A5523622D265E6200BEB730 /* image-mark-todo-pending-lightmode.PNG */,
+				4A5523632D265E6200BEB730 /* image-options-todo-darkmode.PNG */,
+				4A5523642D265E6200BEB730 /* image-options-todo-lightmode.PNG */,
+				4A5523652D265E6200BEB730 /* image-remove-todo-darkmode.PNG */,
+				4A5523662D265E6200BEB730 /* image-remove-todo-lightmode.PNG */,
+				4A5523672D265E6200BEB730 /* image-search-todos-darkmode.PNG */,
+				4A5523682D265E6200BEB730 /* image-search-todos-lightmode.PNG */,
+				4A5523692D265E6200BEB730 /* image-todo-list-darkmode.PNG */,
+				4A55236A2D265E6200BEB730 /* image-todo-list-have-todo-completed-darkmode.PNG */,
+				4A55236B2D265E6200BEB730 /* image-todo-list-have-todo-completed-lightmode.PNG */,
+				4A55236C2D265E6200BEB730 /* image-todo-list-lightmode.PNG */,
+			);
+			path = Public;
+			sourceTree = "<group>";
+		};
 		FA49E2F22D166AD50083F9D7 = {
 			isa = PBXGroup;
 			children = (
 				FA49E2FD2D166AD50083F9D7 /* Todo-App */,
+				4ACE00322D265654008E503F /* README.md */,
 				FA49E2FC2D166AD50083F9D7 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -60,6 +123,7 @@
 			isa = PBXGroup;
 			children = (
 				FA49E2FE2D166AD50083F9D7 /* Todo_AppApp.swift */,
+				4ACE00452D265663008E503F /* Public */,
 				FA49E30C2D166B4B0083F9D7 /* Models */,
 				FA49E3142D1674CC0083F9D7 /* Views */,
 				FA49E30F2D166C040083F9D7 /* ViewModels */,
@@ -171,6 +235,24 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4A55236D2D265E6200BEB730 /* image-add-todo-lightmode.PNG in Resources */,
+				4A55236E2D265E6200BEB730 /* image-todo-list-have-todo-completed-lightmode.PNG in Resources */,
+				4A55236F2D265E6200BEB730 /* image-mark-todo-pending-darkmode.PNG in Resources */,
+				4A5523702D265E6200BEB730 /* image-mark-todo-pending-lightmode.PNG in Resources */,
+				4A5523712D265E6200BEB730 /* image-search-todos-lightmode.PNG in Resources */,
+				4A5523722D265E6200BEB730 /* image-add-todo-darkmode.PNG in Resources */,
+				4A5523732D265E6200BEB730 /* image-todo-list-darkmode.PNG in Resources */,
+				4A5523742D265E6200BEB730 /* image-options-todo-darkmode.PNG in Resources */,
+				4A5523752D265E6200BEB730 /* image-detail-todo-darkmode.PNG in Resources */,
+				4A5523762D265E6200BEB730 /* image-todo-list-have-todo-completed-darkmode.PNG in Resources */,
+				4A5523772D265E6200BEB730 /* image-mark-todo-completed-darkmode.PNG in Resources */,
+				4A5523782D265E6200BEB730 /* image-search-todos-darkmode.PNG in Resources */,
+				4A5523792D265E6200BEB730 /* image-detail-todo-lightmode.PNG in Resources */,
+				4A55237A2D265E6200BEB730 /* image-options-todo-lightmode.PNG in Resources */,
+				4A55237B2D265E6200BEB730 /* image-todo-list-lightmode.PNG in Resources */,
+				4A55237C2D265E6200BEB730 /* image-remove-todo-lightmode.PNG in Resources */,
+				4A55237D2D265E6200BEB730 /* image-mark-todo-completed-lightmode.PNG in Resources */,
+				4A55237E2D265E6200BEB730 /* image-remove-todo-darkmode.PNG in Resources */,
 				FA49E3062D166AD60083F9D7 /* Preview Assets.xcassets in Resources */,
 				FA49E3032D166AD60083F9D7 /* Assets.xcassets in Resources */,
 			);
@@ -245,7 +327,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -299,7 +381,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
@@ -314,6 +396,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Todo-App/Preview Content\"";
@@ -334,6 +417,7 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.letiendat.Todo-App";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
 				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
@@ -348,6 +432,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_IDENTITY = "Apple Development";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Todo-App/Preview Content\"";
@@ -368,6 +453,7 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.letiendat.Todo-App";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
 				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
