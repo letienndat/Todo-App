@@ -14,6 +14,7 @@
 <img src="./Todo-App/Public/image-search-todos-lightmode.PNG" alt="Image Search Todo Lightmode" width="300">
 <img src="./Todo-App/Public/image-search-todos-darkmode.PNG" alt="Image Search Todo Darkmode" width="300">
 <img src="./Todo-App/Public/image-detail-todo-lightmode.PNG" alt="Image Detail Todo Lightmode" width="300">
+<img src="./Todo-App/Public/image-detail-todo-darkmode.PNG" alt="Image Detail Todo Darkmode" width="300">
 <img src="./Todo-App/Public/image-options-todo-lightmode.PNG" alt="Image Options Todo Lightmode" width="300">
 <img src="./Todo-App/Public/image-options-todo-darkmode.PNG" alt="Image Options Todo Darkmode" width="300">
 <img src="./Todo-App/Public/image-detail-todo-darkmode.PNG" alt="Image Detail Todo Darkmode" width="300">
